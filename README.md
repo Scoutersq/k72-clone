@@ -1,8 +1,21 @@
-# React + Vite
+# K72.ca Website Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clone of the [K72.ca](https://k72.ca) website built using modern web technologies.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Responsive layout
+- Smooth animations
+- Pixel-perfect design clone
+- Cross-browser compatibility
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- HTML5
+- CSS3 / TailwindCSS
+- JavaScript (React/Vue/Vanilla as per implementation)
+- GSAP / Framer Motion for animations
+
+## 📦 Installation
+```bash
+git clone https://github.com/yourusername/k72-clone.git
+cd k72-clone
+npm install
