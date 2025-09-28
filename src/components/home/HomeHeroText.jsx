@@ -1,5 +1,5 @@
 import React from "react";
-import Video from "./video";
+import Video from "./Video";
 const HomeHeroText = () => {
   return (
     <div className="font-[font1] pt-8 mt-96 lg:mt-0 text-center">
